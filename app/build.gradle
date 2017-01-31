@@ -62,7 +62,4 @@ dependencies {
     compile 'me.panavtec:threaddecoratedview-common:1.5.2'
     apt 'me.panavtec:threaddecoratedview-compiler:1.5.2'
     testCompile 'org.mockito:mockito-core:2.6.8'
-    androidTestCompile 'com.android.support.test.espresso:espresso-core:2.2.2', {
-        exclude group: 'com.android.support', module: 'support-annotations'
-    }
 }

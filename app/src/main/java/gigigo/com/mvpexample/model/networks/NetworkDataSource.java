@@ -2,7 +2,6 @@ package gigigo.com.mvpexample.model.networks;
 
 import gigigo.com.mvpexample.model.networks.vto.ApiResponse;
 import gigigo.com.mvpexample.model.networks.vto.ApiUser;
-import java.io.IOException;
 import retrofit2.Call;
 import retrofit2.Response;
 
